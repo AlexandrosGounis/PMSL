@@ -5,7 +5,7 @@
 #### Physical Modelling Swift Library
 - Author: Alexandros Gounis
 ---
-### Filters: (declared in *filters.swift*)
+### Filters: (declared in `*filters.swift*`)
 > This **class** implements the standard difference equation that defines how the **output** signal is calculated both from  current and previous samples from the **input** and the **output** signal.
 >  ## Difference Equation ##
 >  * y[n] : **output** *signal*
