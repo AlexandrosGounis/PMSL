@@ -1,4 +1,6 @@
-![PMSL logo](https://raw.githubusercontent.com/AlexandrosGounis/PMSL/master/Assets/Logo/PMSLLogo_466x130.png "Logo")
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlexandrosGounis/PMSL/master/Assets/Logo/PMSLLogo_466x130.png">
+</p>
 
 #### Physical Modelling Swift Library
 - Author: Alexandros Gounis
