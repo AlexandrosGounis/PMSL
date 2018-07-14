@@ -5,8 +5,8 @@
 #### Physical Modelling Swift Library
 - Author: Alexandros Gounis
 ---
-### Filters: (declared in `*filters.swift*`)
-> This **class** implements the standard difference equation that defines how the **output** signal is calculated both from  current and previous samples from the **input** and the **output** signal.
+### Filters: (declared in *`filters.swift`*)
+> This **`class`** implements the standard difference equation that defines how the **output** signal is calculated both from  current and previous samples from the **input** and the **output** signal.
 >  ## Difference Equation ##
 >  * y[n] : **output** *signal*
 >  * x[n] : **input**  *signal*
@@ -21,8 +21,8 @@
 > - **Clear()**: For clearing the filter's coefficients by setting 0 everywhere
 > - **Compute**: For computing the current *output* sample
 ---
-### Delay lines: (declared in *DelayLines.swift*)
-> This **class** creates, modifies and processes fractional delay lines. By using linear interpolation between two successive samples, one can use this class for accurate physical modelling of musical instruments.
+### Delay lines: (declared in *`DelayLines.swift`*)
+> This **`class`** creates, modifies and processes fractional delay lines. By using linear interpolation between two successive samples, one can use this class for accurate physical modelling of musical instruments.
 > - Author: Alexandros Gounis
 > 
 > ## Functions: ##
